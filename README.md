@@ -24,4 +24,3 @@
 6. `Let's_Dive_into_CNNs.ipynb` which implements AutoEncoders of the three mentioned types and we perform a deatiled analysis of the same. 
 
 ----
-s
